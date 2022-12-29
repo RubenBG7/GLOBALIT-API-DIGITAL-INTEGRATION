@@ -1,12 +1,11 @@
 {
   "info": {
-    "description": "Commonalities - Common data and errors for CAMARA APIs",
+    "description": "Common data and errors for Telefonica APIs",
     "version": "0.1.0",
-    "title": "Common data and errors for CAMARA APIs",
-    "termsOfService": "http://swagger.io/terms/",
+    "title": "Common data and errors for Telefonica APIs",
     "contact": {
-      "name": "Sample",
-      "email": "project-email@sample.com"
+      "name": "API DIGITAL INTEGRATION",
+      "email": "apidigital.integration@telefonica.com"
     }
   },
   "definitions": {
